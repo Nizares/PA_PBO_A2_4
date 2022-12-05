@@ -1,4 +1,6 @@
 # PA_PBO_A2_4
+Final Project of Object Oriented Programming Chapter 4
+
 MENGGUNAKAN GUI, CODING BAGIAN PACKAGE CODINGAN BERGUNA UNTUK CONSTRUCTOR DAN KONEKSI KE SQLITE, karena GUI alangkah baiknya menggunakan penyimpanan dinamis(external)
 supaya lebih mudah memanggil data karena multi user.
 ALGORITMA CRUD SQLITE JAVA :
